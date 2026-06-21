@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Veliaht.aternos.me:49506",
+    "ip": "Veliaht.aternos.me",
     "port": 49506,
     "version": "",
     "try-creative": false
